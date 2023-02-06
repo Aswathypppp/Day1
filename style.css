@@ -1,0 +1,26 @@
+h1{
+    color:rgb(55, 0, 255);
+}
+a{
+    text-align: none;
+    color:black;
+}
+#first{
+    color:blueviolet;
+}
+#sec{
+    color:aqua;
+}
+#third{
+    color:brown;
+}
+.box{
+    color:violet;
+    margin:20px;
+    padding:10px;
+    border:3px;
+    border-style:dotted;
+    display:flex;
+    justify-content:center;
+
+}
