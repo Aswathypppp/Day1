@@ -16,11 +16,12 @@ a{
 }
 .box{
     color:violet;
-    margin:20px;
-    padding:10px;
-    border:3px;
-    border-style:dotted;
-    display:flex;
-    justify-content:center;
+    margin: 20px;
+    padding: 10px;
+    border: 3px;
+    border-style: dotted;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
