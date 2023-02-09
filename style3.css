@@ -1,0 +1,7 @@
+#img{
+    display: flex;
+    justify-content: flex-start;
+    width: 200px;
+    height: 200px;
+    padding: 70;
+}
